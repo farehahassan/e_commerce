@@ -46,11 +46,11 @@ This roadmap guides you through building a professional e-commerce app using Flu
 ## Week 1: Setup and Initial Configuration
 
 ### Day 1: Environment Setup
-- [ ] *Install Flutter SDK*: Follow the official [installation guide](https://flutter.dev/docs/get-started/install).
-- [ ] *Install Node.js*: Download from [Node.js](https://nodejs.org/).
-- [ ] *Install MongoDB*: Follow the [MongoDB installation guide](https://docs.mongodb.com/manual/installation/).
-- [ ] *Install VS Code*: Download from [VS Code](https://code.visualstudio.com/).
-- [ ] *Install Git*: Download from [Git](https://git-scm.com/).
+- [x] *Install Flutter SDK*: Follow the official [installation guide](https://flutter.dev/docs/get-started/install).
+- [x] *Install Node.js*: Download from [Node.js](https://nodejs.org/).
+- [x] *Install MongoDB*: Follow the [MongoDB installation guide](https://docs.mongodb.com/manual/installation/).
+- [x] *Install VS Code*: Download from [VS Code](https://code.visualstudio.com/).
+- [x] *Install Git*: Download from [Git](https://git-scm.com/).
 
 ### Day 2: Initialize Projects
 - [ ] *Initialize Flutter Project*: flutter create ecommerce_app
